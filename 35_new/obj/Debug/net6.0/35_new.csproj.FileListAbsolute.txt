@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\работа\gb\с#\sem_5\35_new\obj\Debug\net6.0\35_new.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\работа\gb\с#\sem_5\35_new\obj\Debug\net6.0\35_new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\работа\gb\с#\sem_5\35_new\obj\Debug\net6.0\35_new.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\работа\gb\с#\sem_5\35_new\obj\Debug\net6.0\35_new.AssemblyInfo.cs
+C:\Users\Professional\Desktop\работа\gb\с#\sem_5\35_new\obj\Debug\net6.0\35_new.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\работа\gb\с#\sem_5\35_new\bin\Debug\net6.0\35_new.exe
+C:\Users\Professional\Desktop\работа\gb\с#\sem_5\35_new\bin\Debug\net6.0\35_new.deps.json
+C:\Users\Professional\Desktop\работа\gb\с#\sem_5\35_new\bin\Debug\net6.0\35_new.runtimeconfig.json
+C:\Users\Professional\Desktop\работа\gb\с#\sem_5\35_new\bin\Debug\net6.0\35_new.dll
+C:\Users\Professional\Desktop\работа\gb\с#\sem_5\35_new\bin\Debug\net6.0\35_new.pdb
+C:\Users\Professional\Desktop\работа\gb\с#\sem_5\35_new\obj\Debug\net6.0\35_new.dll
+C:\Users\Professional\Desktop\работа\gb\с#\sem_5\35_new\obj\Debug\net6.0\refint\35_new.dll
+C:\Users\Professional\Desktop\работа\gb\с#\sem_5\35_new\obj\Debug\net6.0\35_new.pdb
+C:\Users\Professional\Desktop\работа\gb\с#\sem_5\35_new\obj\Debug\net6.0\35_new.genruntimeconfig.cache
+C:\Users\Professional\Desktop\работа\gb\с#\sem_5\35_new\obj\Debug\net6.0\ref\35_new.dll
