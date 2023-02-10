@@ -14,11 +14,17 @@ int[] GetArray(int size, int minValue, int maxValue)
     return res;
 }
 
-int[] InversArray(int[] array)
-{
+int[] InversArray(int[] array){// [1, -2, 3, -4, 5] ->[-1,2,-3,4,-5]
     for (int i = 0; i < array.Length; i++)
     {
         array[i] *= -1;
     }
     return array;
 }
+
+/* **Задача 33:**Задайте массив.Напишите программу, 
+которая определяет, присутствует ли заданное число в массиве.
+
+4; массив[6, 7, 19, 345, 3]->нет
+
+3; массив[6, 7, 19, 345, 3]->да*/
